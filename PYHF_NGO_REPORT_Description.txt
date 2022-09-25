@@ -1,0 +1,12 @@
+Problem: To find the area of focus for the Pakistan Young Hindu Forum (PYHF) for the 2023 calendar year.
+
+Description: Pakistan Young Hindu Forum is an NGO which works mainly for poverty alleviation for the Hindus of Pakistan. In this report, 
+             I have provided details of population distribution district-wise and area of interest in a populated region.  
+             
+
+Results:  -> More than 90% of the Hindu population lives in Sindh province.
+          -> Around 9 lac population of Hindus reside in Mirpurkhas Division which encompasses Islamkot, Mithi and Mirpurkhas city. 
+          -> Most NGOs in the MirpurKhas region work for a blood donation drive and Domestic Violence. 
+
+Recommendations:  -> This report shows that majority of the region of the Mirpukhas division is deprived of focussed educational NGOs. It is highly recommended that PYHF 
+                     should divert their funds related to education facilities, e.g. providing merit scholarships and global exposure.
