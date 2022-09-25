@@ -1,0 +1,15 @@
+Problem: To find the feasibility of Air to Water Generator at different locations in Pakistan 
+
+Description: Air to Water Generator mainly depends on the dew point, humidity and Temperature.
+             To satisfy the criteria:
+             -> More than 80% of days in the whole calendar year should have more than 20% humidity.
+             -> Dew Point temperature should be more than 15*C to work at 80% efficiency.
+             -> Rainy days are excluded as the humidity will always be greater than 20% on rainy days.
+             
+
+Results:  -> In Karachi and Lahore, more than 65% of days have Dew Point Temperature greater than 15*C
+          -> All three cities have a humidity of greater than 20% on more than 90% of days.
+          -> In Islamabad, the dew point temperature is less than 15*C on more than 70% of the days.
+
+Recommendations:  -> Karachi and Lahore have almost similar data patterns, and both have shown significant output for the first trial. 
+                     However, Islamabad has less dew point temperature on the majority of days. Therefore, Air to Water Generator will not work to its recommended efficiency.
