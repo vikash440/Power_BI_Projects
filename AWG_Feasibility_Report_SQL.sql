@@ -1,4 +1,4 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
+
 use Weather_DATA;
 SELECT TOP (1000) [name]
       ,[datetime]
